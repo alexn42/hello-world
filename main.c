@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-void main(int void){
-
+void main(int argc, char argv[]){
 printf("Hello World!\n\n");
-
 }
